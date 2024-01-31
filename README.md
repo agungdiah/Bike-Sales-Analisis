@@ -61,6 +61,6 @@ https://drive.google.com/drive/folders/1WRmrndqBUmNAg-i7HVBQILoVbMOvBq7a?usp=sha
 dominasi size yang umumnya dipilih oleh pelanggan sebelumnya
 
 Visualization/Result
-https://public.tableau.com/views/MarketingConcernDashboard/Dashboard43?:language=en-US&:display_count=n&:origin=viz_share_link
-https://drive.google.com/drive/folders/1WRmrndqBUmNAg-i7HVBQILoVbMOvBq7a?usp=sharing 
+- https://public.tableau.com/views/MarketingConcernDashboard/Dashboard43?:language=en-US&:display_count=n&:origin=viz_share_link
+- https://drive.google.com/drive/folders/1WRmrndqBUmNAg-i7HVBQILoVbMOvBq7a?usp=sharing 
  
