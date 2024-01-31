@@ -50,7 +50,16 @@ https://drive.google.com/drive/folders/1WRmrndqBUmNAg-i7HVBQILoVbMOvBq7a?usp=sha
 - Apply statistical functions to perform aggregations
 - Using Pivot Tabel and Pivot Chart to make Visualization
 - Using VLOOKUP to find data by Sales Order
-  
+
+## Conclusion and Recomendation Action
+- Model produk yang memiliki jumlah order terbanyak adalah Mountain 200, sedangkan yang memiliki jumlah order paling rendah adalah Mountain 100. Oleh karena itu, tim pemasaran dapat mempertimbangkan strategi khusus untuk meningkatkan penjualan Mountain 100 serta memperkuat posisi Mountain 200 melalui promosi tambahan atau penyesuaian strategi pemasaran.
+- Canada memiliki jumlah pelanggan, jumlah order, dan revenue yang paling rendah. Dalam konteks Gender dan Age Group, target pelanggan di Canada baru mencakup satu kelompok usia, yaitu Young Adults, sementara kelompok usia Adults dan Youth belum terjangkau di negara tersebut. Oleh karena itu, tim pemasaran dapat mempertimbangkan strategi khusus di Canada, terutama untuk kelompok usia Adults dan Youth yang belum terjangkau.
+- Target pelanggan di Germany juga baru mencakup satu kelompok usia, yaitu Adults, sementara kelompok usia Young Adults dan Youth belum terjangkau di negara tersebut. Selain itu
+  Dari segi Gender, terjadi perbedaan signifikan antara revenue customer perempuan dibandingkan laki-laki. Oleh karena itu, tim pemasaran dapat mempertimbangkan strategi khusus di Germany, terutama untuk kelompok usia Young Adults dan Youth yang belum terjangkau, serta untuk pelanggan laki-laki yang jumlahnya terbatas.
+- Perempuan cenderung lebih memilih sepeda dengan warna Silver, sementara Pria lebih cenderung memilih sepeda dengan warna Hitam. Disarankan untuk menawarkan opsi warna kepada pelanggan baru dengan mempertimbangkan dominasi warna yang umumnya dipilih oleh pelanggan sebelumnya. warna Silver direkomendasikan untuk pelanggan Perempuan, sementara warna Hitam direkomendasikan untuk pelanggan Laki-Laki.
+- Perempuan dengan kategori usia Adults (35-64) cenderung memilih sepeda dengan size 46, ketegori usia Young Adults(25-34)cenderung memilih sepeda dengan size 42 dan kategori usia Youth (<25) cenderung memilih sepeda dengan size 38. Pria dengan kategori usia Adults (35-64) cenderung memilih sepeda dengan size 38, kategori usia Young Adults(25-34) cenderung memilih sepeda dengan size 38 dan kategori usia Youth (<25) cenderung memilih sepeda dengan size 46. Disarankan untuk menawarkan size sepeda kepada pelanggan baru dengan mempertimbangkan
+dominasi size yang umumnya dipilih oleh pelanggan sebelumnya
+
 Visualization/Result
 https://public.tableau.com/views/MarketingConcernDashboard/Dashboard43?:language=en-US&:display_count=n&:origin=viz_share_link
 https://drive.google.com/drive/folders/1WRmrndqBUmNAg-i7HVBQILoVbMOvBq7a?usp=sharing 
