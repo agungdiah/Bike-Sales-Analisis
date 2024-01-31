@@ -1,7 +1,7 @@
 # BIKE SALES ANALYSIS
 Bike Sales Analysis Project using Excel. This repo on Bike Sales Analysis will help to understand the various crucial functions available in Excel, such as Conditional Formating, Text Functions, Statistical Function, Vlookup, Pivot Tabel and Pivot Chart to make Visualization
 
-Dashboard : https://public.tableau.com/views/MarketingConcernDashboard/Dashboard43?:language=en-US&:display_count=n&:origin=viz_share_link. In this dashboard, you have the flexibility to filter the data by day, enabling you to update and analyze the specific information you are interested in.
+- Dashboard : https://public.tableau.com/views/MarketingConcernDashboard/Dashboard43?:language=en-US&:display_count=n&:origin=viz_share_link. In this dashboard, you have the flexibility - to filter the data by day, enabling you to update and analyze the specific information you are interested in.
 Report : https://drive.google.com/drive/folders/1WRmrndqBUmNAg-i7HVBQILoVbMOvBq7a?usp=sharing
 
 ## Business Understanding
